@@ -1,0 +1,23 @@
+ Test Life cycle managment tool
+
+HP ALM (APPLICATION LIFE CYCEL MANAGMENT)
+
+Test Director 8.2
+
+HP Quality Center 10.0
+
+HP ALM 11.00
+========================================================
+
+Raise a ticket (Steps will be provided by your team)
+
+URL 
+
+Respective team will give one URL
+
+User name and Password
+
+
+Dashboard
+
+
